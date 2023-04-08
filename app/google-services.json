@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073854465809",
+    "project_id": "student-records-757d5",
+    "storage_bucket": "student-records-757d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073854465809:android:c2b3f44cc5d022fa626eb0",
+        "android_client_info": {
+          "package_name": "com.example.student_records"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073854465809-33heq67jhnvmkat3ah2p33acrfcto8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWsEIEDe1MzKKBjpeGKr2fvsLfgsclie8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073854465809-33heq67jhnvmkat3ah2p33acrfcto8nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

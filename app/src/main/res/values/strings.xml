@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Student_Records</string>
+    <string-array name="DepartmentList">
+        <item>Dept</item>
+        <item>CSE</item>
+        <item>ME</item>
+        <item>EX</item>
+        <item>EC</item>
+        <item>CE</item>
+    </string-array>
+    <string-array name="SectionList">
+        <item>Sec</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="SemesterList">
+        <item>Sem</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
